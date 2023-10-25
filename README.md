@@ -1,6 +1,6 @@
 # REST-DEMO
 Hi There! Miss Eri here. If you are a beginner in Spring, Java or SpringBoot. or Programming in general this a great project for you to start getting familiar with the languages.
-You can find the Official Docunentations here. 
+You can find the Official Docunentations below. 
 
 Remember: *understanding the rules of a game makes it easier to play, is the same for programmming languages so don't hesitate on reading thoroughly the official documentation for any project you are working on 
 (even when sometimes it can be more confusing lol)*
